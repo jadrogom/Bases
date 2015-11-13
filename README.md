@@ -16,6 +16,6 @@ from bibliotmp
 inner 
 join usuarios on usuarios.codusu= prestamostmp.codusu WHERE fecpre = CURRENT_DATE-40;
 
-
+esto es una prueba.
 
 sentencias SQL
